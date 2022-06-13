@@ -10,3 +10,5 @@ It is a Mini Project used for Heart Disease Prediction with Python using All Sup
 6. Random Forest 
 7. XGBoost 
 8. Neural Networks 
+
+Input is 2-D echocardiography (Echo2D) or Electrocardiogram (ECG) values.
